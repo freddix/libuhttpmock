@@ -1,11 +1,11 @@
 Summary:	HTTP web service mocking project
 Name:		libuhttpmock
-Version:	0.3.1
+Version:	0.3.3
 Release:	1
 License:	LGPL v2.1
 Group:		Libraries
 Source0:	http://tecnocode.co.uk/downloads/uhttpmock/uhttpmock-%{version}.tar.xz
-# Source0-md5:	ea1a7d7ba0546dbabb6fd4389c21a11d
+# Source0-md5:	d28b1429eadf3825c8a1f3096bb9d01d
 URL:		https://gitorious.org/uhttpmock/pages/Home
 BuildRequires:	autoconf
 BuildRequires:	automake
